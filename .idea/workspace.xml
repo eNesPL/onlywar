@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbd9326a-665b-4dde-b4e6-0e532c82034d" name="Default Changelist" comment="" />
+    <list default="true" id="fbd9326a-665b-4dde-b4e6-0e532c82034d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.json" beforeDir="false" afterPath="$PROJECT_DIR$/system.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/template.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ciUXc2cn5IZq8plEmAbc9HrHbI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,8 +27,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,6 +46,9 @@
       <updated>1591010947084</updated>
       <workItem from="1591010948411" duration="223000" />
       <workItem from="1591015333657" duration="131000" />
+      <workItem from="1591015465781" duration="815000" />
+      <workItem from="1591016742883" duration="20000" />
+      <workItem from="1591016785762" duration="2112000" />
     </task>
     <servers />
   </component>
@@ -37,9 +56,25 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591015463453">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591016199382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591015463453" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591016199382" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1591015798703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591015798703" />
+    <state x="836" y="225" key="Github.UntrackedFilesDialog" timestamp="1591015802949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591015802949" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1591016848933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591016848933" />
+    <state x="677" y="328" key="jetbrains.nodejs.interpreters-dialog" timestamp="1591016200590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="328" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040/1920.65.1440.860@0.0.1920.1040" timestamp="1591016200590" />
   </component>
 </project>
