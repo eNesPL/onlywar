@@ -3,26 +3,95 @@
   "types": ["character"],
   "character": {
     "biography": "",
+    "Max_Fate_Points": {
+      "value": 2,
+      "min": 0,
+      "max": 99
+    },
+    "Fate_Points": {
+      "value": 2,
+      "min": 0,
+      "max": 99
+    },
+    "Max_health": {
+      "value": 10,
+      "min": -99,
+      "max": 99
+    },
     "health": {
       "value": 10,
-      "min": 0,
-      "max": 10
+      "min": -99,
+      "max": 99
     },
-    "power": {
-      "value": 5,
+    "Insanity_Points": {
+      "value": 0,
       "min": 0,
       "max": 5
     },
-    "attributes": {}
+    "Corruption_Points": {
+      "value": 0,
+      "min": 0,
+      "max": 5
+    },
+    "attributes": {},
+    "abilities": {
+      "WS": {
+        "value": 20
+      },
+      "BS": {
+        "value": 20
+      },
+      "S": {
+        "value": 20
+      },
+      "T": {
+        "value": 20
+      },
+      "Ag": {
+        "value": 20
+      },
+      "Int": {
+        "value": 20
+      },
+      "Per": {
+        "value": 20
+      },
+      "WP": {
+        "value": 20
+      },
+      "Fel": {
+        "value": 20
+      }
+    }
   }
 },
 "Item": {
-  "types": ["item"],
+  "types": ["item","weapon"],
+  "templates": {
+    "base": {
+      "description": "",
+      "quantity": 1,
+      "weight": 0
+    }
+  },
   "item": {
-    "description": "",
-    "quantity": 1,
-    "weight": 0,
+    "templates": ["base"],
     "attributes": {}
+  },
+  "weapon": {
+    "name": "",
+    "weight": 0,
+    "class": "",
+    "Damage": "",
+    "pen": "",
+    "type": "",
+    "range": "",
+    "ROF": "",
+    "clip": "",
+    "reload": "",
+    "special": "",
+    "left in": ""
   }
 }
 }
+
